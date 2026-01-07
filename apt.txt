@@ -1,3 +1,2 @@
 # apt packages to install should be listed one per line
 jq
-jq
